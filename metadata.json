@@ -1,0 +1,7 @@
+{
+  "name": "SproutLab AI",
+  "description": "An interactive smart plant growth prototype for kids to monitor their plants using AI, sensors, and computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
